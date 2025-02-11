@@ -12,9 +12,9 @@ Além disso, vamos criar nossa primeira aplicação em Python, e estou muito emp
 
 Escreva um programa em Python que solicita ao usuário para digitar seu nome, o valor do seu salário mensal e o valor do bônus que recebeu. O programa deve, então, imprimir uma mensagem saudando o usuário pelo nome e informando o valor do salário em comparação com o bônus recebido.
 
-![imagem](pic.png)
+![imagem](https://github.com/user-attachments/assets/84bb6a1b-ceed-4f04-abc6-70ccc482ed13)
 
-![imagem](pic2.png)
+![imagem](https://github.com/user-attachments/assets/5943adc9-917a-4287-ad08-ef82df4dd9ca)
 
 ## Agenda (1 hora)
 
@@ -246,9 +246,9 @@ Qual é o seu nome? Luciano
 
 Escreva um programa em Python que solicita ao usuário para digitar seu nome, o valor do seu salário mensal e o valor do bônus que recebeu. O programa deve, então, imprimir uma mensagem saudando o usuário pelo nome e informando o valor do salário em comparação com o bônus recebido.
 
-![imagem](pic.png)
+![imagem](https://github.com/user-attachments/assets/84bb6a1b-ceed-4f04-abc6-70ccc482ed13)
 
-![imagem](pic2.png)
+![imagem](https://github.com/user-attachments/assets/5943adc9-917a-4287-ad08-ef82df4dd9ca)
 
 #### Instruções:
 
