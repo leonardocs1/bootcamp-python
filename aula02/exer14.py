@@ -1,0 +1,5 @@
+data = input("Informe um data (dd/MM/yyyy): ")
+dia, mes, ano = data.split("/")
+print(f"Dia: {dia}")
+print(f"Mês: {mes}")
+print(f"Ano: {ano}")
