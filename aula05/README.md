@@ -1,6 +1,6 @@
 # Projeto 01: Um Bilhão de Linhas: Desafio de Processamento de Dados com Python
 
-![imagem_01](./pic/1.jpg)
+![Image](https://github.com/user-attachments/assets/b8ce6391-57d5-44d4-943b-2f0caf61b9a7)
 
 ## Introdução
 
@@ -53,7 +53,7 @@ O desafio é desenvolver um programa Python capaz de ler esse arquivo e calcular
 
 ## Desafio
 
-![imagem_03](./pic/3.jpg)
+![Image](https://github.com/user-attachments/assets/7a466d90-0415-4ff3-9831-ee25165a92a9)
 
 - Clonar o repositorio do projeto [link](https://github.com/lvgalvao/One-Billion-Row-Challenge-Python)
 - Rodar o código utilizando Pyenv, Poetry e VSCode
