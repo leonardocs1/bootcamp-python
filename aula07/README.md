@@ -137,7 +137,7 @@ graph TD;
     C --> D[Calcular Vendas];
     D --> E[Exibir Resultados];
     E --> F[Fim];
-
+```
 
 **Tarefas**:
 
@@ -163,4 +163,4 @@ graph TD;
     * Entrada: Dicionário processado
     * Saída: Dicionário com total de vendas por categoria
 
-![imagem_04]((https://github.com/user-attachments/assets/2cd14a5a-0753-4c03-9701-2f88d2c3f330)
+![imagem_04](https://github.com/user-attachments/assets/2cd14a5a-0753-4c03-9701-2f88d2c3f330)
