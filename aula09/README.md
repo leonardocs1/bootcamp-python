@@ -13,7 +13,7 @@ Quando queremos entender mais sobre nossa aplicação, temos duas alternativas.
 
 Hoje quero apresentar uma terceira opção, que é o logging.
 
-[![imagem_05](./pic/5.png)](https://www.linkedin.com/posts/lucianovasconcelosf_voc%C3%A9-%C3%A9-da-turma-do-print-ou-do-log-debugar-activity-7166127525763518464-z8AN?utm_source=share&utm_medium=member_desktop)
+![Image](https://github.com/user-attachments/assets/c0b296d7-41a3-4322-ac22-05f4b6245348)
 
 ## Conteúdo
 
