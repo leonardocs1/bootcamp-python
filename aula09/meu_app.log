@@ -1,0 +1,15 @@
+2025-03-02 18:06:45.493 | INFO     | __main__:soma:6 - 2
+2025-03-02 18:06:45.494 | INFO     | __main__:soma:7 - 3
+2025-03-02 18:12:58.546 | INFO     | __main__:soma:6 - 2
+2025-03-02 18:12:58.547 | INFO     | __main__:soma:7 - 3
+2025-03-02 18:20:39.934 | INFO     | __main__:soma:8 - Você digitou valores corretos, parabens 5
+2025-03-02 18:21:01.375 | CRITICAL | __main__:soma:11 - Você digitou valores incorretos
+2025-03-02 18:37:07.913 | CRITICAL | __main__:soma:11 - Você digitou valores incorretos
+2025-03-02 20:15:50.817 | INFO     | utils_log:wrapper:25 - Chamando função 'soma' com args (2, '2') e kwargs {}
+2025-03-02 20:15:50.818 | CRITICAL | __main__:soma:13 - Você digitou valores incorretos
+2025-03-02 20:15:50.819 | INFO     | utils_log:wrapper:28 - Função 'soma' retornou None
+2025-03-02 20:16:36.448 | INFO     | utils_log:wrapper:25 - Chamando função 'soma' com args (2, 2) e kwargs {}
+2025-03-02 20:16:36.448 | INFO     | __main__:soma:10 - Você digitou valores corretos, parabens 4
+2025-03-02 20:16:36.448 | INFO     | utils_log:wrapper:28 - Função 'soma' retornou 4
+2025-03-02 20:17:23.857 | INFO     | utils_log:wrapper:25 - Chamando função 'soma' com args (2, 2) e kwargs {}
+2025-03-02 20:17:23.873 | INFO     | utils_log:wrapper:28 - Função 'soma' retornou 4

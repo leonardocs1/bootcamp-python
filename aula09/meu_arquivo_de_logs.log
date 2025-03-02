@@ -1,0 +1,8 @@
+2025-03-02T20:15:50.817589-0300 INFO Chamando função 'soma' com args (2, '2') e kwargs {} utils_log.py
+2025-03-02T20:15:50.818593-0300 CRITICAL Você digitou valores incorretos exemplo_00.py
+2025-03-02T20:15:50.819588-0300 INFO Função 'soma' retornou None utils_log.py
+2025-03-02T20:16:36.448087-0300 INFO Chamando função 'soma' com args (2, 2) e kwargs {} utils_log.py
+2025-03-02T20:16:36.448087-0300 INFO Você digitou valores corretos, parabens 4 exemplo_00.py
+2025-03-02T20:16:36.448087-0300 INFO Função 'soma' retornou 4 utils_log.py
+2025-03-02T20:17:23.857579-0300 INFO Chamando função 'soma' com args (2, 2) e kwargs {} utils_log.py
+2025-03-02T20:17:23.873210-0300 INFO Função 'soma' retornou 4 utils_log.py
